@@ -1,2 +1,2 @@
 # Luogu
-A problem set I did at Luogu.
+A set of algorithm problems which I have done at Luogu.
